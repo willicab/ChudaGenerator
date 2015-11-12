@@ -1,6 +1,6 @@
 <?php
 class MemeGenerator{
-	
+
 	private $upperText;
 	private $lowerText;
 	private $alignment;
